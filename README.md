@@ -1,6 +1,6 @@
 # Hi there, I'm Omar 👋
 
-I am a **Frontend Web Developer** and **Freelancer** with over **2 years of experience** creating responsive, user-friendly websites. I specialize in building clean, organized, and modern web applications using **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **SCSS**.
+I am a **Frontend Web Developer** and **Freelancer** with over **3 years of experience** creating responsive, user-friendly websites. I specialize in building clean, organized, and modern web applications using **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **SCSS**.
 
 ---
 
@@ -34,11 +34,11 @@ I am a **Frontend Web Developer** and **Freelancer** with over **2 years of expe
 
 ## 🛠️ My Projects
 ### Featured Projects
-- 🧠 [Afaq-alTareq](https://afaqaltariq.sa/)  
-  A landing page for afaq-al-tareq company for online car rental
+- 🧠 [CeramicShop](https://omergehad405.github.io/CeramicShop/)  
+  this is full e-commerce website for CeramicShop which is a website for selling Ceramic products
 
-- 🎬 [flower shop](https://omergehad405.github.io/Flower_shop/)
-  A React-based E-commerce website for selling flower.
+- 🎬 [fresheat](https://fresh-heat.vercel.app/)
+ FreshEat is a fullstack project that allows users to order food online.
 
 --- 
 
