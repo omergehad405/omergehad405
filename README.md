@@ -10,6 +10,7 @@ I am a **Frontend Web Developer** and **Freelancer** with over **3 years of expe
   - HTML5, CSS3, JavaScript (ES6+)
   - SCSS, TailwindCSS, Bootstrap
   - ReactJS, Zustand, Context API
+  - Node.js, ExpressJS , MongooDB
 - 💻 **Tools**: VS Code, Git/GitHub, Figma, Strapi CMS
 - 📝 **Content Creator**: New to YouTube! I make educational videos about web development and technology concepts
 
@@ -34,11 +35,14 @@ I am a **Frontend Web Developer** and **Freelancer** with over **3 years of expe
 
 ## 🛠️ My Projects
 ### Featured Projects
-- 🧠 [CeramicShop](https://omergehad405.github.io/CeramicShop/)  
+- [CeramicShop](https://omergehad405.github.io/CeramicShop/)  
   this is full e-commerce website for CeramicShop which is a website for selling Ceramic products
 
-- 🎬 [fresheat](https://fresh-heat.vercel.app/)
+- [fresheat](https://fresh-heat.vercel.app/)
  FreshEat is a fullstack project that allows users to order food online.
+
+- [Fyrre-Magazine](https://fyrre-magazine-nine.vercel.app/)
+ Fyrre Magazine — a modern arts & life web experience I built using Next.js, Tailwind CSS.
 
 --- 
 
