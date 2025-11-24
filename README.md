@@ -1,6 +1,6 @@
 # Hi there, I'm Omar 👋
 
-I am a **Frontend Web Developer** and **Freelancer** with over **3 years of experience** creating responsive, user-friendly websites. I specialize in building clean, organized, and modern web applications using **HTML**, **CSS**, **JavaScript**, **ReactJS**, and **SCSS**.
+I am a **MERN Stack Developer** and **Freelancer** with over **3 years of experience** creating responsive, user-friendly websites. I specialize in building clean, organized, and modern web applications using **ReactJS**, and **NextJs** , **Tailwind css**, **Node.JS**, **Express js**,**MongooDB**.
 
 ---
 
