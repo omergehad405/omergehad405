@@ -17,7 +17,7 @@ I am a **MERN Stack Developer** and **Freelancer** with over **3 years of experi
 ---
 
 ## 🌐 Connect With Me
-- 🌍 [Portfolio Website](https://omergehad405.github.io/portfolio0.2/)
+- 🌍 [Portfolio Website](https://portfolio-ivory-one-27.vercel.app/)
 - 💼 [Khamsat Profile](https://khamsat.com/user/omer_gehad)
 - 💻 [GitHub](https://github.com/omergehad405)
 - 🐦 [Linked In](https://www.linkedin.com/in/omar-gehad-214302291/)
@@ -35,14 +35,17 @@ I am a **MERN Stack Developer** and **Freelancer** with over **3 years of experi
 
 ## 🛠️ My Projects
 ### Featured Projects
-- [CeramicShop](https://omergehad405.github.io/CeramicShop/)  
-  this is full e-commerce website for CeramicShop which is a website for selling Ceramic products
+- [EduMaster](https://edu-master-five.vercel.app/)  
+  AI-powered education platform with structured learning tracks, automated quiz generation from notes, and adaptive level testing.
 
 - [fresheat](https://fresh-heat.vercel.app/)
  FreshEat is a fullstack project that allows users to order food online.
 
 - [Fyrre-Magazine](https://fyrre-magazine-nine.vercel.app/)
  Fyrre Magazine — a modern arts & life web experience I built using Next.js, Tailwind CSS.
+
+- [Codeya](https://www.codeya.tech/)
+ a fullStack software agency that delivers full-stack web solutions for clients. built the agency's official website.
 
 --- 
 
